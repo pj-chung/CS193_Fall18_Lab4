@@ -3,7 +3,7 @@ Task 1:
 // Under this line write a message to yourself from GitHub
 a message to yourself from GitHub
 // Under this line, describe what the command 'git fetch' does
-
+'git fetch' gets new information from the remote server to know it made a change
 
 Task 2:
 
