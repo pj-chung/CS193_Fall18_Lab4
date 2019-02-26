@@ -8,7 +8,7 @@ a message to yourself from GitHub
 Task 2:
 
 // Under this line describe why we need to run 'git push' after making a commit
-
+we need to run 'git push' afer making a commit to update the local changes to the remote server
 Task 3:
 
 // Under this line, write a message to yourself from the branch 'branch-A'
